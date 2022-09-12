@@ -40,11 +40,11 @@ GIF created with ... ScanToGif
 ## Notes
 
 Describe any challenges encountered while building the app.
-* Linking the UI to the backend, as in updating the changes on the UI.
-* Understading why constraint layout was not working, suceeded.
-* Trying to get colors for the words, did not suceed.
-* Trying to get visual change after user wins, did not suceed.
-* Setting up the reset button, suceeded.
+[X] Linking the UI to the backend, as in updating the changes on the UI.
+[X] Understading why constraint layout was not working.
+[ ] Trying to get colors for the words.
+[ ] Trying to get visual change after user wins.
+[X] Setting up the reset button.
 
 ## License
 
