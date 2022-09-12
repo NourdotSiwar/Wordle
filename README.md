@@ -23,7 +23,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://user-images.githubusercontent.com/100004210/179420262-dcadb594-89ea-4409-a098-c6cb6f13b9be.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+<img src='Wordle.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
 
 <!-- Tools-->
 GIF created with ... ScanToGif
