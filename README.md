@@ -23,7 +23,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://user-images.githubusercontent.com/100004210/179420262-dcadb594-89ea-4409-a098-c6cb6f13b9be.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />'<blockquote class="imgur-embed-pub" lang="en" data-id="a/QvUG5di" data-context="false" ><a href="//imgur.com/a/QvUG5di"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://user-images.githubusercontent.com/100004210/179420262-dcadb594-89ea-4409-a098-c6cb6f13b9be.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />'
 
 <!-- Tools-->
 GIF created with ... ScanToGif
