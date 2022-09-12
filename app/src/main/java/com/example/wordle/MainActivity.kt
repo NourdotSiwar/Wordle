@@ -116,6 +116,8 @@ class MainActivity : AppCompatActivity() {
             guess2check.text = ""
             guess3.text = ""
             guess3check.text = ""
+            simpleEditText.text.clear()
+
             button.isClickable = true;
             button.isEnabled = true;
             winOrLoss.visibility = View.INVISIBLE
