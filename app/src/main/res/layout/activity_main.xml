@@ -20,7 +20,7 @@
         app:layout_constraintEnd_toStartOf="@+id/Guess"
         app:layout_constraintHorizontal_bias="0.97"
         app:layout_constraintStart_toStartOf="parent"
-        android:hint="Enter 4 letter word here">
+        android:hint= "Enter 4 letter word here">
         ></EditText>
 
     <Button
