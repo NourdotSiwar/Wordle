@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [X] User can see "YOU WON!" or "You lost :(" next to the target word.
+- [X] User can see "YOU WON!" or "You lost :(" next to the target word.
 
 ## Video Walkthrough
 
@@ -40,11 +40,11 @@ GIF created with ... ScanToGif
 ## Notes
 
 Describe any challenges encountered while building the app.
-[X] Linking the UI to the backend, as in updating the changes on the UI.
-[X] Understading why constraint layout was not working.
-[ ] Trying to get colors for the words.
-[ ] Trying to get visual change after user wins.
-[X] Setting up the reset button.
+- [X] Linking the UI to the backend, as in updating the changes on the UI.
+- [X] Understading why constraint layout was not working.
+- [ ] Trying to get colors for the words.
+- [ ] Trying to get visual change after user wins.
+- [X] Setting up the reset button.
 
 ## License
 
