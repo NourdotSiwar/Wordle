@@ -23,7 +23,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="ZJzhYJh"><a href="https://imgur.com/ZJzhYJh">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="ZJzhYJh"><a href="https://imgur.com/ZJzhYJh">View post on imgur.com</a></blockquote>
 
 <!-- Tools-->
 GIF created with ... ScanToGif and Imgur
